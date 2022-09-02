@@ -1,4 +1,4 @@
-[help](https://photos.google.com/photo/AF1QipNcJ1252apE7MjU93Lf3Tg2xHJlaKt2rvDlRcxD)
+<img alt="alt_text" width="40px" src="https://photos.google.com/photo/AF1QipNcJ1252apE7MjU93Lf3Tg2xHJlaKt2rvDlRcxD" />
 # WS2812B controller
 - with using this code you can control your WS2812B (RGB LED) from web.
 - **[click here for connect to author](https://t.me/Soltan_Python)**
