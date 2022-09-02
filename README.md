@@ -2,5 +2,6 @@
 - with using this code you can control your WS2812B (RGB LED) from web.
 
 # connections
-|---| --- |
-|hi | bye |
+|name| xxxx |
+|--- | ---  |
+|hi  | bye  |
