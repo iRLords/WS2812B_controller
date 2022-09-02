@@ -19,6 +19,7 @@ https://user-images.githubusercontent.com/98465015/188142102-1b7b7e8c-dafe-4060-
 - connect the Pin 14 to input pin of WS2812B and 3v3 to VCC and GND to GND
 
 # 🔧 settings
+- Program [MicroPython](https://micropython.org/download/) on your board
 - open the `config.py` file and fill out of all variables
 - For example: line _4_ `matrix` value is `16`, if my WS2812B has 8 LEDs, I put `8` instead of `16`.
 - and your SSID of wifi is your wifi name
