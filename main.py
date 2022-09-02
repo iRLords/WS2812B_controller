@@ -1,4 +1,3 @@
-from time import sleep
 import machine,gc,neopixel,network
 from config import *
 
