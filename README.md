@@ -1,4 +1,7 @@
 # WS2812B controller
+
+![WS2812B_breadboard](https://user-images.githubusercontent.com/98465015/188142028-7dd30f52-e686-4558-acd1-94f6cdf4590f.png)
+
 - You can control your WS2812B (RGB LED) color from the web using this code.
 - **[click here for connect to author](https://t.me/Soltan_Python)**
 
