@@ -9,3 +9,6 @@
 |GND            |GND        |
 
 - connect the Pin 14 to input pin of WS2812B and 3v3 to VCC and GND to GND
+
+
+* Auther : https://t.me/Soltan_Python
