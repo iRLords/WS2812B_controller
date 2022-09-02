@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/98465015/188142102-1b7b7e8c-dafe-4060-
 
 # settings
 - open the `config.py` file and fill out of all variables
-- for example : line 4 `matrix` value is 16 , if my WS2812B have 8 LED's i'll put 8 instead of 16
+- For example: line _4_ `matrix` value is `16`, if my WS2812B has 8 LEDs, I put `8` instead of `16`.
 - and your SSID of wifi is your wifi name
 
 Good Luck ;)
