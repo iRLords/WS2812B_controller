@@ -8,7 +8,7 @@ station.isconnected()
 station.ifconfig()
 
 # ------ if you get a output like : 0.0.0.0:80 , stop program and run it again ------#
-print('search this ip to your browser : '+str(station.ifconfig()[0])+':'+str(p))#----#
+print('enter this ip and port to your browser : '+str(station.ifconfig()[0])+':'+str(p))#----#
 # ---------------------------------------------------------------------------------- #
 
 np = neopixel.NeoPixel(machine.Pin(WS2812B_pin), matrix)
