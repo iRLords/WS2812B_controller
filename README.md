@@ -1,5 +1,5 @@
 # WS2812B controller
-- with using this code you can control your WS2812B (RGB LED) from web.
+- You can control your WS2812B (RGB LED) color from the web using this code.
 - **[click here for connect to author](https://t.me/Soltan_Python)**
 
 # connections
@@ -12,3 +12,10 @@
 |GND            |GND        |
 
 - connect the Pin 14 to input pin of WS2812B and 3v3 to VCC and GND to GND
+
+# settings
+- open the `config.py` file and fill out of all variables
+- for example : line 4 `matrix` value is 16 , if my WS2812B have 8 LED's i'll put 8 instead of 16
+- and your SSID of wifi is your wifi name
+
+Good Luck ;)
