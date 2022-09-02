@@ -7,3 +7,5 @@
 |GPIO14(D5)     |IN         |
 |3v3            |VCC        |
 |GND            |GND        |
+
+- connect the Pin 14 to input pin of WS2812B and 3v3 to VCC and GND to GND
