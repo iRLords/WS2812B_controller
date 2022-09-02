@@ -10,11 +10,11 @@ https://user-images.githubusercontent.com/98465015/188142102-1b7b7e8c-dafe-4060-
 ![WS2812B_breadboard](https://user-images.githubusercontent.com/98465015/188141833-36c2cad2-ee91-4da7-b39d-b791c5c6f51c.png)
 
 
-|ESP8266        |WS2812B    |
-|---            | ---       |
-|GPIO14(D5)     |IN         |
-|3v3            |VCC        |
-|GND            |GND        |
+|ESP8266          |WS2812B     |
+|---              |  ---       |
+| GPIO14 (D5)     | IN         |
+| 3v3             | VCC        |
+| GND             | GND        |
 
 - connect the Pin 14 to input pin of WS2812B and 3v3 to VCC and GND to GND
 
