@@ -11,4 +11,4 @@
 
 - connect the Pin 14 to input pin of WS2812B and 3v3 to VCC and GND to GND
 
-<img alt="alt_text" width="40px" src="https://photos.google.com/photo/AF1QipNcJ1252apE7MjU93Lf3Tg2xHJlaKt2rvDlRcxD" />
+![alt text](https://photos.google.com/photo/AF1QipNcJ1252apE7MjU93Lf3Tg2xHJlaKt2rvDlRcxD)
