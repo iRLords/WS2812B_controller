@@ -1,6 +1,6 @@
 # WS2812B controller
 - with using this code you can control your WS2812B (RGB LED) from web.
-- **[click here for connect to auther](https://t.me/Soltan_Python)**
+- **[click here for connect to author](https://t.me/Soltan_Python)**
 
 # connections
 |ESP8266        |WS2812B    |
