@@ -15,7 +15,7 @@ np = neopixel.NeoPixel(machine.Pin(WS2812B_pin), matrix)
 def clear(x=np):
     for i in range(x.n):
         x[i] = (0,0,0)
-    np.write()
+    x.write()
 def show(color,x=np):
     clear()
     for i in range(x.n):
